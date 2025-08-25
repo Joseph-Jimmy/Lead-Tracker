@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "version": "1.1",
+    "name": "Leads Tracker",
+    "action": {
+        "default_popup": "joseph.html",
+        "default_icon": "cool.png"
+    }
+
+}
